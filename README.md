@@ -1,2 +1,2 @@
 # Medix
-A Health website
+A Healthcare website
